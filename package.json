@@ -2,7 +2,7 @@
     "name": "com.adrianuspax.datamanager",
     "displayName": "Data Manager",
     "description": "Scripts Data Manager",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2017.1",
     "license": "MIT",
     "repository": {
